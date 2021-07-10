@@ -91,3 +91,12 @@ a:hover,
 a:focus {
     color: #008000;
 }
+
+
+/** MEDIA QUERIES **/
+
+@media (max-width: 600px) {
+    .container {
+        width: 90%;
+    }
+}
