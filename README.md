@@ -23,7 +23,7 @@ This is the clone app to the [counter-image-project](https://jsbeginners.com/wp-
 
 ![](https://github.com/Karllouise-code/counter-app/blob/master/image/counter-app.gif)
 
-### Full Screenshot
+### Full Screenshot (added hashnode logo)
 
 ![](https://github.com/Karllouise-code/counter-app/blob/master/image/counter-app.png)
 
