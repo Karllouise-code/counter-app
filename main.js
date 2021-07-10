@@ -1,6 +1,6 @@
 let number = document.getElementById("number");
 
-let count = 7
+let count = 0
 
 function decrement() {
     if (count == 0) {
