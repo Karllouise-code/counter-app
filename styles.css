@@ -78,9 +78,24 @@ h1 {
     color: #000;
 }
 
+.logo {
+    display: flex;
+    width: 50%;
+    margin-top: 1.5rem;
+    justify-content: space-between;
+}
+
+.hashnode {
+    width: 100%;
+    max-width: 40px;
+    transition: .6s;
+}
+
+.hashnode:hover {
+    transform: rotate(1turn);
+}
+
 a {
-    position: absolute;
-    bottom: 1rem;
     text-decoration: none;
     font-size: 3rem;
     color: #000;
@@ -90,6 +105,7 @@ a {
 a:hover,
 a:focus {
     color: #008000;
+    transform: rotate(1turn);
 }
 
 
