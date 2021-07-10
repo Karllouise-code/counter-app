@@ -7,6 +7,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+:focus {
+    outline: none;
+}
+
 header {
     height: 100vh;
     background: #B5966A;
@@ -80,4 +84,10 @@ a {
     text-decoration: none;
     font-size: 3rem;
     color: #000;
+    transition: .6s;
+}
+
+a:hover,
+a:focus {
+    color: #008000;
 }
