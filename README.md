@@ -5,7 +5,7 @@
 - [The Challenge](#the-challenge)
 - [App Demo](#app-demo)
 - [Full Screenshot](#full-screenshot)
-- [Link](#link)
+- [Links](#links)
 
 ## Side Hustle Week 3 Task
 
@@ -23,10 +23,12 @@ This is the clone app to the [counter-image-project](https://jsbeginners.com/wp-
 
 ![](https://github.com/Karllouise-code/counter-app/blob/master/image/counter-app.gif)
 
-### Full Screenshot
+### Full Screenshot 
+#### (added hashnode logo)
 
 ![](https://github.com/Karllouise-code/counter-app/blob/master/image/counter-app.png)
 
-### Link
+### Links
 
 - Live Site URL: <https://karllouise-code.github.io/counter-app/>
+- Hashnode URL: <https://karllouiserito.hashnode.dev/here-at-side-hustle-internship>
