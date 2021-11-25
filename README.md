@@ -1,5 +1,5 @@
 # JavaScript Counter App
-
+*I also use this Counter App whenever I play Axie Infinity - IT HELPS A LOT!*
 ## Contents
 
 - [The Challenge](#the-challenge)
